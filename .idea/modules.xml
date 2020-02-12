@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo_learning.iml" filepath="$PROJECT_DIR$/dubbo_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_learningApi/dubbo_learningApi.iml" filepath="$PROJECT_DIR$/dubbo_learningApi/dubbo_learningApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_learningProvider/dubbo_learningProvider.iml" filepath="$PROJECT_DIR$/dubbo_learningProvider/dubbo_learningProvider.iml" />
+    </modules>
+  </component>
+</project>
